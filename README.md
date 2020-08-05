@@ -3,7 +3,7 @@
 A simple Food Classifier build using a Custom Dataset by fine-tuning the pre-trained VGG16 Model.
 ### NOTE: Some functions signature  might change depending on the version of tensorflow used.
 
-STEPS TO RUN THIS CLASSIFIER
+##### STEPS TO RUN THIS CLASSIFIER
 
 1. Clone or download this repository.
 
@@ -15,7 +15,7 @@ STEPS TO RUN THIS CLASSIFIER
 
 5.Execute train.py to perform fine-tuning.
 
-5.Run detect.py for detection.
+6.Run detect.py for detection.
 
 
-REFERENCES:https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/
+REFERENCE:https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/

@@ -1,0 +1,6 @@
+After running build_dataset.py, this folder will contain 3 folders:
+-training
+-evaluation
+-validation
+
+Inside these folders, there will be the images stored separately in different folders with  class label as the name.

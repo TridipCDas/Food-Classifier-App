@@ -1,6 +1,6 @@
 # Food-Classifier-App
 
-A simple Food Classifier build using a Custom Dataset by fine-tuning the pre-trained VGG16 Model.
+A simple Food Classifier build using a Custom Dataset by fine-tuning a pre-trained  Model.
 ### NOTE: Some functions signature  might change depending on the version of tensorflow used.
 
 ##### STEPS TO RUN THIS CLASSIFIER
